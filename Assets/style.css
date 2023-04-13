@@ -2,7 +2,6 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-
 .namebar {
     display: flex;
     margin-right: auto;
@@ -77,7 +76,9 @@ button {
 }
 
   footer {
-    text-align: center;
+    position: fixed;
+    left: 50%;
+    bottom: 0;
     color: slategray;
 }
 
