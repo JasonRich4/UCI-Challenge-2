@@ -8,7 +8,7 @@
     margin-right: auto;
     font-size: larger;
     font-weight: bold;
-    padding: 5px;
+    padding: 10px;
 
     /* border: solid;
     border-width: 4px;
@@ -67,12 +67,10 @@ button {
     padding: 10px;
 }
 
-aside {
-    flex: 1;
-    background-color: #ecc7ad;
-    padding: 20px;
-    /* Find a way to take up only the left side -- 02/01/05 */
-  }
+img {
+    max-width: 200px;
+    max-height: 200px;
+}
 
 
   footer {
