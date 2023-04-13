@@ -53,7 +53,7 @@ button {
 .header {
     background-color: rgb(255, 204, 146);
     height: 100%;
-    background:url(https://images.unsplash.com/photo-1628965880619-bd47243535ae);
+    background:url(https://images.unsplash.com/photo-1628965880619-bd47243535ae); /* Find a way to zoom out */
     padding: 20px;
     margin: auto;
 }
@@ -63,15 +63,18 @@ button {
     justify-content: end;
     color: black;
     font-size: 20px;
-    background-color: white; /* Find a way to make this a surrounding box */
+    background-color: white; /* Find a way to make this a surrounding box instead of bar*/
     padding: 10px;
 }
 
-img {
+/* img {
     max-width: 200px;
     max-height: 200px;
-}
+} */
 
+.aboutme {
+    
+}
 
   footer {
     text-align: center;
@@ -79,4 +82,9 @@ img {
 }
 
 
-/* UI scroller */
+/* add img/avi of me - front page */
+/* UI scroller for clickable links (top right) */
+/* add titled images of previous applications (real or demonstration purposes?) */
+/* make first application larger than the rest */
+/* application images should be clickable (BUTTON: HOVER,FOCUS,ACTIVE), and deploy into other pages (NEW TAB) */
+/* @Media screen resizer -- flex? */
