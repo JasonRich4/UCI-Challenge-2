@@ -57,27 +57,34 @@ button {
     margin: auto;
 }
 
-.welcome { 
+/* .welcome { 
     display: flex;
     justify-content: end;
-    color: black;
+    color: white;
     font-size: 20px;
-    background-color: white; /* Find a way to make this a surrounding box instead of bar*/
     padding: 10px;
-}
-
-/* img {
-    max-width: 200px;
-    max-height: 200px;
 } */
 
-.aboutme {
+img {
+    max-width: 120px;
+    max-height: 120px;
+    margin-right: 49%;
+
+}
+
+main {
+    text-align: center;
+}
+
+#aboutme {
     
 }
 
-/* arrange in row? */
+
+
+/* arrange in row */
 .contact {
-    grid-row: start;
+    
 }
 
 
