@@ -1,7 +1,7 @@
 * {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif 
 }
-
+    
 .namebar {
     display: flex;
     margin-right: auto;
@@ -74,6 +74,12 @@ button {
 .aboutme {
     
 }
+
+/* arrange in row? */
+.contact {
+    grid-row: start;
+}
+
 
   footer {
     position: fixed;
