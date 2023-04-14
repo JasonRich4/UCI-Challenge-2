@@ -87,7 +87,7 @@ nav {
 .workimg {
     height: 300px;
     width: 300px;
-    border: black solid 5px;
+    border: white solid 6px;
     margin: 20px;
     -webkit-transform: scale(1);
 	transform: scale(1);
